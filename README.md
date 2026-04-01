@@ -1,2 +1,2 @@
 # llm-learning
-llm+medicial
+llm+medicial  justt for myself 
